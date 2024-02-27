@@ -100,7 +100,7 @@ class _LoginScreenState extends State<LoginScreen> {
           color: Color.fromRGBO(137, 127, 255, 1),
           fontWeight: FontWeight.w600),
       decoration: BoxDecoration(
-        border: Border.all(color: Color.fromARGB(255, 42, 42, 43)),
+        border: Border.all(color: const Color.fromARGB(255, 42, 42, 43)),
         borderRadius: BorderRadius.circular(10),
       ),
     );
@@ -121,7 +121,7 @@ class _LoginScreenState extends State<LoginScreen> {
       body: Container(
         width: double.infinity,
         height: double.infinity,
-        decoration: BoxDecoration(
+        decoration: const BoxDecoration(
           gradient: LinearGradient(
             begin: Alignment.topCenter,
             end: Alignment.bottomCenter,
