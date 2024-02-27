@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158161075188",
+    "project_id": "mobile-otp-27daf",
+    "storage_bucket": "mobile-otp-27daf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158161075188:android:d79a64f39e20fbdfd297a1",
+        "android_client_info": {
+          "package_name": "com.example.mobile_otp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwLkrvCJW83-lq-qkAD9Z9YNsvssvPsBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
